@@ -6,12 +6,12 @@ div.gallery {
 
 div.gallery-item {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #EE82EE;
   width: 180px;
 }
 
 div.gallery-item:hover {
-  border: 1px solid #E6E6FA;
+  border: 1px solid #DDA0DD;
 }
 
 div.gallery-item img {
