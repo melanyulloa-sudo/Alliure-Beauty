@@ -8,7 +8,7 @@ body {
 }
 
 #encabezado {
-  background-color: #04B404;
+  background-color: #9370DB;
   text-align: center;
   font-size: 35px;
   color: white;
@@ -22,14 +22,14 @@ body {
         font-size: 18px;
         list-style-type:none;
         height: auto;
-        background-color: #04B404;
+        background-color: #EE82EE;
         }
 
 #columna_principal {
   float: left;
   width: 70%;
   height: 700px;
-  background-color: #FFFFFF;
+  background-color: #FF69B4;
 }
 
 
